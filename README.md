@@ -1,4 +1,4 @@
-## An Introduction to the Slack API: Easy-Peasy Incoming Webhooks
+## An Introduction to the Slack API: Easy-Peasy Incoming Webhooks check it out
 
 This repo contains a starting point for exploring the Slack APIs using incoming webhooks.
 It's a simple app written in Python using Flask.
